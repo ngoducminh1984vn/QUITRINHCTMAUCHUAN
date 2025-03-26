@@ -1,2 +1,1 @@
-# QUITRINHCTMAUCHUAN
- 
+Chào các bạn Kĩ thuật viên

@@ -1,0 +1,1356 @@
+Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ 02 (HoNai 02)
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 3	Bóng NC T2012 5%
+1 path	1:1.5		Súng sơn		
+										
+Công thức	Lót màu UV AQ 02 (HoNai 02)				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	200				
+2	VÀNG 57 UV	9,5				
+3	ĐỎ F3 RK (1-0.5) DM	3,5				
+4	ĐEN MA 100 UV	4,7				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ 156
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 3	Cán Lót màu UV AQ 156
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 4	Bóng NC T2012 5%
+1 path	1:1.5		Súng sơn		
+										
+Công thức	Lót màu UV AQ 156				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	150				
+2	BT UV 2222 WHITE SEALER PHT	100				
+3	XANH DƯƠNG 4GA	3,2				
+4	ĐEN TC L3 (1-2) DM	0,6				
+5	ĐỎ F3 RK (1-0.5) DM	0,2				
+6	XANH LÁ GT	2				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+QUY TRÌNH A
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ 317
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Bóng NC T2012 1505 5%
+1 path	1:1.5		Súng sơn
+Định lượng 180 g/m2		
+QUY TRÌNH B
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ 317
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Cán BT UV 0609 TOPCOAT 10% PHT
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	
+										
+Công thức	Lót màu UV AQ 317				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	370				
+2	VÀNG 412	42				
+2	ĐỎ VM 334	8				
+2	ĐEN TC L3 (1-2) DM	2,5				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+QUY TRÌNH A
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ 441
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	500 ~ 700	#320
+Bước 3	Bóng NC T2012 1505 5%
+1 path	1:1.5		Súng sơn
+Định lượng 180 g/m2		
+QUY TRÌNH B
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ 441
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Cán BT UV 0609 TOPCOAT 10% PHT
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	
+										
+Công thức	Lót màu UV AQ 441				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	350				
+2	VÀNG 412	6				
+3	ĐỎ VM 334	0,3				
+4	ĐEN TC L3 (1-2) DM	0,5				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+QUY TRÌNH A
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ 541
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Cán Lót màu UV AQ 541
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 4	Bóng NC NY 1897 5%
+1 path	1:1		Súng sơn
+Định lượng 180 g/m2		
+QUY TRÌNH B
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ 541
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 2	Cán Lót màu UV AQ 541
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Cán BT UV 0609 TOPCOAT 10% PHT
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	
+										
+Công thức	Lót màu UV AQ 541				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2222 WHITE SEALER	250				
+1	BT UV 2011 SEALER	150				
+2	VÀNG CAM 2RA	3,8				
+2	ĐEN TC L3 (1-2) DM	2				
+2	ĐỎ F3 RK (1-0.5) DM	0,3				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+QUY TRÌNH A
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ 808 809 719 757
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Bóng NC T2012 1505 5%	1:1.5		Súng sơn
+Định lượng 180 g/m2		
+QUY TRÌNH B
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ 808 809 719 757
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Cán BT UV 0609 TOPCOAT 10% PHT
+lần 1 1 trục			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	
+										
+Công thức	Lót màu UV AQ 808 809 719 757				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	400				
+2	ĐEN TC L3 (1-2) DM	16				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+QUY TRÌNH A
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ 893
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Cán Lót màu UV AQ 893
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 4	Bóng NC T2012 1505 5%
+1 path	1:1.5		Súng sơn
+Định lượng 180 g/m2		
+QUY TRÌNH B
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ 893
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Cán Lót màu UV AQ 893
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 4	Cán BT UV 0609 TOPCOAT 10% PHT
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	
+										
+Công thức	Lót màu UV AQ 893				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	200				
+2	BT UV 2222 WHITE SEALER PHT	50				
+3	VÀNG CAM 2RA	2,9				
+4	ĐỎ F3 R (1-0.5) DM	0,8				
+5	ĐEN TC L3 (1-2) DM	5				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+QUY TRÌNH A
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ 1087
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	500 ~ 700	#320
+Bước 3	Bóng NC T2012 1505 5%
+1 path	1:1.5		Súng sơn
+Định lượng 180 g/m2		
+QUY TRÌNH B
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ 1087
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Cán BT UV 0609 TOPCOAT 10%
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	
+										
+Công thức	Lót màu UV AQ 1087				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	400				
+2	ĐEN TC L3 (1-2) DM	15				
+3	ĐỎ F3 RK (1-0.5) DM	3				
+4	VÀNG CAM 2RA	4				
+5	XANH LÁ GT	0,2				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+QUY TRÌNH A
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ 1088
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Cán Lót màu UV AQ 1088
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 4	Bóng NC T2012 1505 5%
+1 path	1:1.5		Súng sơn
+Định lượng 180 g/m2		
+QUY TRÌNH B
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ 1088
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Cán Lót màu UV AQ 1088
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 4	Cán BT UV 0609 TOPCOAT 10%
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	
+										
+Công thức	Lót màu UV AQ 1088				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	400				
+2	BT UV 2222 WHITE SEALER PHT	150				
+3	ĐEN TC L3 (1-2) DM	5,2				
+4	VÀNG CAM 2RA	6,5				
+5	ĐỎ F3 R (1-0.5) DM	1,2				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+QUY TRÌNH A
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ SH 36 + 37
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 15~20 g/m2	400 ~ 600	#320
+Bước 3	Bóng NC T2012 1505 5%
+1 path	1:1.5		Súng sơn
+Định lượng: 180 g/m2		
+QUY TRÌNH B
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV AQ SH 36 + 37
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	400 ~ 600	#320
+Bước 3	Cán BT UV 0609 TOPCOAT 10%
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	
+										
+Công thức	Lót màu UV AQ SH 36 + 37				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	600				
+2	BT UV 2222 WHITE SEALER PHT	120				
+3	VÀNG CAM 2RA	16				
+4	ĐỎ F3 RK (1-0.5) DM	4				
+5	ĐEN TC L3 (1-2) DM	5,6				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán lót BT UV 2704 FILLER
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 30~35 g/m2	400 ~ 500	#320/#400
+Bước 3	Cán lót BT UV 2704 FILLER
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 30~35 g/m2	400 ~ 500	#320/#400
+Bước 4	Cán Bóng màu UV MH 222 NATURAL 30%
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	
+										
+Công thức	Bóng màu UV MH 222 NATURAL 30%				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 0609 TOPCOAT 10%	300				
+2	Vàng cam 2RA	5,5				
+3	Đỏ F3 RK (1-0.5) DM	1,1				
+4	Đen TC L3 (1-2) DM	0,8				
+5	BT UV 2222 WHITE SEALER	10				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV HNA 02
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 3	Bóng NC NY 1807 5%
+1 path	1:1.5		Súng sơn		
+										
+Công thức	Lót màu UV HNA 02				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	200				
+2	VÀNG 57 UV	13				
+3	ĐỎ 04 UV	0,9				
+4	ĐEN MA 100 UV	4,8				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV HNA 45
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Bóng NC T2012 1505 10%	1:1.5		Súng sơn		
+										
+Công thức	Lót màu UV HNA 45				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	300				
+2	VÀNG 412	42				
+3	ĐỎ VM 334	10				
+4	ĐEN TC L3 (1-2) DM	2,5				
+4	BT UV 2222 WHITE SEALER PHT	7				
+										
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV HNA 317
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Cán BT UV 0609 TOPCOAT 10% PHT
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	#320
+										
+Công thức	Lót màu UV HNA 317				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	550				
+2	VÀNG 57 UV	33				
+3	ĐỎ F3 RK (1-0.5) DM	4				
+4	ĐEN TC L3 (1-2) DM	4				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV HNA 319
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 3	Bóng NC T2012 1505 5%
+1 path	1:1.5		Súng sơn		
+										
+Công thức	Lót màu UV HNA 319				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2211 SEALER	4500				
+2	BT UV 2212 WHITE SEALER (PKP)	600				
+3	VÀNG 412	350				
+4	ĐỎ VM 334	30				
+5	ĐEN TC L3 (1-2) DM	6				
+6	XANH LÁ GT	14				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV HNA 327
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 3	Bóng NC T2012 1505 5%
+1 path	1:1.5		Súng sơn		
+										
+Công thức	Lót màu UV HNA 327				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	700				
+2	BT UV 2222 WHITE SEALER PHT	50				
+3	VÀNG 412	12				
+4	XANH LÁ GT	5				
+5	ĐEN TC L3 (1-2) DM	28				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV HNA 808+809
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	#320
+Bước 3	Bóng NC T2012 1505 5%	1:1.5		Súng sơn		
+										
+Công thức	Lót màu UV HNA 808+809				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2711 BLACK SEALER	3600				
+2	BT UV 2011 SEALER	1000				
+3	VÀNG 412	45				
+4	ĐỎ VM 334	16				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV HNA 828
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 7~10 g/m2	600 ~ 800	#320 hoặc #400
+Bước 3	Cán Lót màu UV HNA 828
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 7~10 g/m2	600 ~ 800	#400
+Bước 4	Bóng NC T2012 10%
+1 path	1:1.5		Súng sơn		
+										
+Công thức	Lót màu UV HNA 828				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2011 SEALER	4200				
+2	BT UV 1110 WHITE SEALER	300				
+3	VÀNG CAM 2RA	30				
+4	ĐEN TC L3 (1-2) DM	70				
+5	ĐỎ F3 RK (1-0.5) DM	2				
+6	XANH LÁ GT	15				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV HNA 845
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Cán BT UV 0609 TOPCOAT 5% PHT
+lần 1 1 trục	1:1.5		Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	
+										
+Công thức	Lót màu UV HNA 845				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2222 WHITE SEALER PHT	230				
+2	BT UV 2008 SEALER	125				
+3	GIANT BLUE (1-2) DM	8,2				
+4	VÀNG CAM 2RA	1,2				
+4	ĐEN TC L3 (1-2) DM	4,1				
+4	XANH LÁ GT	4,3				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán Lót màu UV HNA 887
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 3	Bóng NC NY 1807 5%
+1 path	1:1.5		Súng sơn		
+										
+Công thức	Lót màu UV HNA 887				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	200				
+2	VÀNG 412	5				
+3	ĐỎ VM 334	2,2				
+4	XANH LÁ GT	2				
+5	ĐEN TC L3 (1-2) DM	0,3				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán lót BT UV 2703 FILLER
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 50~60 g/m2	500 ~ 700	#320
+Bước 3	Cán Lót màu UV HP 001
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 4	Cán lót màu UV HP 001
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 5	Cán lót màu UV HP 001
+lần 3 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+										
+Công thức	Lót màu UV HP 001				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 0907 WHITE SEALER	1000				
+2	BT UV 2407 WHITE TOPCOAT 10%	200				
+3	Đỏ F3 RK (1-0.5) DM	3				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán Lót màu UV HP 002
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 3	Cán lót màu UV HP 002
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 4	Cán lót màu UV HP 002
+lần 3 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	
+Bước 5	Cán lót màu UV HP 002
+lần 4 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	
+										
+Công thức	Lót màu UV HP 002				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	250				
+2	BT UV 0609 TOPCOAT 5%	30				
+3	BT UV 2711 BLACK SEALER PHT	150				
+4	Đen MA 100 UV	42				
+5	Đen TC L3 (1-2) DM	3				
+6	Xanh lá GT	18				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán Lót màu UV HP 003
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 3	Cán lót màu UV HP 003
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 4	Cán lót màu UV HP 003
+lần 3 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	
+Bước 5	Cán lót màu UV HP 003
+lần 4 1 trục (gạt dao)			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	#400
+										
+Công thức	Lót màu UV HP 003				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	200				
+2	BT UV 2222 WHITE SEALER PHT	70				
+3	BT UV 2005 MATT SEALER	100				
+4	VÀNG CAM 2RA	2				
+5	ĐỎ F3 RK (1-0.5) DM	0,3				
+6	ĐEN TC L3 (1-2) DM	3,5				
+7	XANH LÁ GT	32				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán Lót màu UV HP 006
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 3	Cán lót màu UV HP 006
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	
+Bước 4	Cán lót màu UV HP 006
+lần 3 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	
+Bước 5	Cán lót màu UV HP 006
+lần 4 1 trục (gạt dao)			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	#400
+										
+Công thức	Lót màu UV HP 006				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	75				
+2	BT UV 2222 WHITE SEALER PHT	45				
+3	BT UV 2005 MATT SEALER	130				
+4	Vàng cam 2RA	1,5				
+5	Đỏ F3 RK (1-0.5) DM	0,7				
+6	Đen TC L3 (1-2) DM	8				
+7	Giant Blue (1-2) DM	16				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán Lót màu UV HP 008
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 3	Cán lót màu UV HP 008
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 4	Cán lót màu UV HP 008
+lần 3 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	
+Bước 5	Cán lót màu UV HP 008
+lần 4 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+										
+Công thức	Lót màu UV HP 008				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 1110 WHITE SEALER	300				
+4	Vàng cam 2RA	2				
+4	Đỏ F3 RK (1-0.5) DM	3,6				
+5	Đen TC L3 (1-2) DM	0,2				
+6	Dung môi 01	20				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán Lót màu UV HP 011
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Cán lót màu UV HP 011
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+										
+Công thức	Lót màu UV HP 011				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2011 SEALER	230				
+2	Vàng 412	18				
+3	Đỏ VM 334	7,5				
+5	Đen TC L3 (1-2) DM	1,3				
+6	Vàng 57 UV	1				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán Lót màu UV HP 016
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 3	Cán lót màu UV HP 016
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 4	Cán lót màu UV HP 016
+lần 3 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	
+Bước 5	Cán lót màu UV HP 016
+lần 4 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+										
+Công thức	Lót màu UV HP 016				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2011 SEALER	450				
+2	BT UV 2005 MATT SEALER	650				
+3	BT UV 2222 WHITE SEALER	90				
+4	BT UV 0609 TOPCOAT 10%	90				
+5	ĐỎ F3 RK (1-0.5) DM	1,5				
+6	ĐEN MA 100 UV	28				
+7	GIANT BLUE (1-2) DM	108				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán Lót màu UV HP 017
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Cán lót màu UV HP 017
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+										
+Công thức	Lót màu UV HP 017				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	380				
+2	BT UV 2222 WHITE SEALER PHT	120				
+3	Vàng cam 2RA	3,6				
+4	Đỏ F3 RK (1-0.5) DM	3				
+5	Đen TC L3 (1-2) DM	2,2				
+6	Xanh dương 4GA	1,2				
+7	BT UV 0609 TOPCOAT 10% PHT	35				
+8	Dung môi 01	13				
+9	Dung dịch pha sơn UV 100	60				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán Lót màu UV HP 018
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 3	Cán lót màu UV HP 018
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+										
+Công thức	Lót màu UV HP 018				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	240				
+2	BT UV 2222 WHITE SEALER PHT	4				
+3	Vàng cam 2RA	0,6				
+4	Đỏ F3 RK (1-0.5) DM	0,4				
+5	Đen TC L3 (1-2) DM	2,4				
+6	Dung môi 04	5				
+7	BT UV 0609 TOPCOAT 10% PHT	15				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán lót BT UV 2704 FILLER
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 30~35 g/m2	400 ~ 500	#320
+Bước 3	Cán Lót màu UV MH 02
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 4	Cán lót màu UV MH 02
+lần 2 2 trục (gạt dao)			Máy cán UV
+Định lượng: 22~26 g/m2	600 ~ 800	#400
+Bước 5	Cán lót màu UV MH 02
+lần 3 2 trục (gạt dao)			Máy cán UV
+Định lượng: 20~26 g/m2	600 ~ 800	#400
+Bước 6	Cán BT UV 2407 TOPCOAT 20%
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	#400
+										
+Công thức	Lót màu UV MH 02				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2222 WHITE SEALER PHT	1100				
+2	Vàng cam 2RA	0,2				
+3	Đỏ New SUPER (1-2) DM	1				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán lót BT UV 2704 FILLER
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 30~35 g/m2	400 ~ 500	#320
+Bước 3	Cán Lót màu UV MH 21
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 20~23 g/m2	600 ~ 800	#320
+Bước 4	Cán lót màu UV MH 21
+lần 2 2 trục (gạt dao)			Máy cán UV
+Định lượng: 22~26 g/m2	600 ~ 800	#320
+Bước 5	Cán lót màu UV MH 21
+lần 3 2 trục (gạt dao)			Máy cán UV
+Định lượng: 22~26 g/m2	600 ~ 800	#320
+Bước 6	Cán BT UV 2407 TOPCOAT 20%
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	#400
+										
+Công thức	Lót màu UV MH 21				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV2008 SEALER	900				
+2	BT UV 2222 WHITE SEALER PHT	600				
+4	Vàng cam 2RA	7				
+5	Đỏ F3 RK (1-0.5) DM	15				
+6	Xanh dương 4 GA	6,5				
+7	Grant Rose (1-2) DM	60				
+8	Dung dịch pha sơn UV 100	80				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán Lót màu UV MH 133
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 22~26 g/m2	600 ~ 800	#400
+Bước 3	Cán lót màu UV MH 133
+lần 2 2 trục (gạt dao)			Máy cán UV
+Định lượng: 22~26 g/m2	600 ~ 800	#320
+Bước 4	Cán Bóng màu UV MH 133 30%
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	#400
+										
+Công thức	Lót màu UV MH 133				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV2008 SEALER	250				
+2	Vàng 57 UV	21,5				
+3	Đỏ 04 UV	1,8				
+4	Đen MA 100 UV	10				
+										
+Công thức	Bóng màu UV MH 133 30%				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2407 TOPCOAT 20%	200				
+2	Lót màu UV MH 133	40				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán lót BT UV 2704 FILLER
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 30~35 g/m2	500 ~ 700	#320
+Bước 3	Cán Lót màu UV MH 136 (Gray)
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 15~20 g/m2	600 ~ 800	#400
+Bước 4	Cán lót màu UV MH 136 (Gray)
+lần 2 2 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 6	Cán Bóng màu UV MH 136 (Gray) 30%
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 15~20 g/m2	600 ~ 800	#400
+										
+Công thức	Lót màu UV MH 136 (Gray)				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2222 WHITE SEALER PHT	55				
+2	BT UV 2008 SEALER	300				
+3	Vàng cam 2RA	1,5				
+4	Đỏ F3 RK (1-0.5) DM	0,4				
+5	Đen TC L3 (1-2) DM	3,1				
+6	Xanh dương 4 GA	1				
+										
+Công thức	Bóng màu UV MH 136 (Gray) 30%				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2407 TOPCOAT 20%	300				
+2	Lót màu UV MH 136 (Gray)	60				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán lót BT UV 2704 FILLER
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 35~40 g/m²	400 ~ 500	#320
+Bước 3	Cán Lót màu UV MH 151
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 15~20 g/m²	600 ~ 800	#320
+Bước 4	Cán lót màu UV MH 151
+lần 2 2 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#320
+Bước 5	Cán lót màu UV MH 151
+lần 3 2 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#320
+Bước 6	Cán BT UV 2407 TOPCOAT 20%
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 10~17 g/m²	600 ~ 800	#400
+										
+Công thức	Lót màu UV MH 151				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2222 WHITE SEALER	1500				
+2	Vàng cam 2RA	12				
+3	Đỏ New super (1-5) DM	3				
+4	Xanh dương 4GA (1-5) DM	0,8				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán lót BT UV 2704 FILLER
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 30~35 g/m²	400 ~ 500	#320
+Bước 3	Cán lót màu UV MH 160
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#320
+Bước 4	Cán lót màu UV MH 160
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#320
+Bước 5	Cán lót màu UV MH 160
+lần 3 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#320
+Bước 6	Cán Bóng màu UV MH 160 30%
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 10~15 g/m²	600 ~ 800	#400
+										
+Công thức	Lót màu UV MH 160				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	300				
+2	BT UV 2222 WHITE SEALER PHT	70				
+3	Vàng cam 2RA (1-10) 	1,4				
+4	Đỏ F3 RK (1-0.5) DM	0,4				
+5	Đen TC L3 (1-2) DM	4				
+6	Xanh dương 4 GA	1,3				
+7	Dung dịch pha sơn UV 100	30				
+8	Dung môi 01	15				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán lót BT UV 2704 FILLER
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 35~40 g/m²	400 ~ 500	#320
+Bước 3	Cán lót màu UV MH 192
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 25~30 g/m²	600 ~ 800	#320
+Bước 4	Cán lót màu UV MH 192
+lần 2 2 trục (gạt dao)			Máy cán UV
+Định lượng: 25~30 g/m²	600 ~ 800	#320
+Bước 5	Cán Bóng màu UV MH 192 30%
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 15~20 g/m²	600 ~ 800	#400
+										
+Công thức	Lót màu UV MH 192				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2711 BLACK SEALER	200				
+2	Đen TC L3 (1-2) DM	10				
+3	Xanh lá GT	0,2				
+										
+Công thức	Bóng màu UV MH 192 30%				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 0609 TOPCOAT 20%	200				
+2	Đen TC L3 (1-2) DM	2,5				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán Lót màu UV MH 222A
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 3	Cán lót màu UV MH 222A
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 22~26 g/m2	600 ~ 800	#400
+Bước 6	Cán BT UV 2407 TOPCOAT 30%
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 15~20 g/m2	600 ~ 800	
+										
+Công thức	Lót màu UV MH 222A				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	500				
+2	BT UV 2222 WHITE SEALER PHT	20				
+3	Vàng cam 2RA	6,7				
+4	Đỏ F3 RK (1-0.5) DM	1,9				
+5	Đen TC L3 (1-2) DM	1,1				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán Lót màu UV MH 232
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 3	Cán lót màu UV MH 232
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 4	Cán BT UV 2407 TOPCOAT 30%
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 15~20 g/m2	600 ~ 800	#400
+										
+Công thức	Lót màu UV MH 232				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV2008 SEALER	400				
+2	BT UV 2222 WHITE SEALER PHT	20				
+3	Đen TC L3 (1-2) DM	2,5				
+4	Vàng cam 2RA	3				
+5	Đỏ F3 RK (1-0.5) DM	0,7				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán lót BT UV 2704 FILLER
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 30~35 g/m2	400 ~ 500	#320
+Bước 3	Cán Lót màu UV MH 237
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 25~30 g/m2	600 ~ 800	#320
+Bước 4	Cán lót màu UV MH 237
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 5	Cán Bóng màu UV MH 237 30%
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+										
+Công thức	Lót màu UV MH 237				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV2008 SEALER	100				
+2	BT UV 2222 WHITE SEALER PHT	90				
+3	BT UV 2711 BLACK SEALER PHT	340				
+4	Vàng cam 2RA	2				
+5	Đỏ F3 RK (1-0.5) DM	2,5				
+6	Xanh dương 4 GA	1,5				
+7	Dung dịch pha sơn UV 100	60				
+										
+Công thức	Bóng màu UV MH 237 30%				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2407 TOPCOAT 20%	400				
+2	Lót màu UV MH 237	80				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán Lót màu UV MH 250
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#320
+Bước 3	Cán lót màu UV MH 250
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#320
+Bước 4	Cán Bóng màu UV MH 250 30%
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 15~20 g/m²	600 ~ 800	#400
+										
+Công thức	Lót màu UV MH 192				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV2008 SEALER	450				
+2	Vàng cam 2RA	20,2				
+3	Đỏ F3 RK (1-0.5) DM	15				
+4	Đen TC L3 (1-2) DM	10				
+5	Xanh lá GT	2				
+6	Dung dịch pha sơn UV 100	10				
+										
+Công thức	Bóng màu UV MH 250 30%				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 0609 TOPCOAT 20% PHT	400				
+2	Lót màu UV MH 250	80				
+3	Đỏ F3 RK (1-0.5) DM	0,2				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán lót màu UV MH 422C
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 30~35 g/m²	600 ~ 800	#320
+Bước 3	Cán lót màu UV MH 422C
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 30~35 g/m²	600 ~ 800	#320
+Bước 4	Cán Bóng màu UV MH 422C 30%
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#400
+										
+Công thức	Lót màu UV MH 422 C				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2222 WHITE SEALER	200				
+2	BT UV 2011 SEALER	150				
+3	Vàng cam 2RA (1-10) 	5,8				
+4	DĐỏ F3 RK (1-0.5) DM	1,5				
+5	Đen TC L3 (1-2) DM	5,7				
+6	Xanh dương 4 GA	1				
+										
+Công thức	Bóng màu UV MH 422 C 30%				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 0510 TOPCOAT 30%	200				
+2	Lót màu UV MH 422 C	20				
+3	BT UV 2222 WHITE SEALER	2				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán lót BT UV 2704 FILLER
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 35~40 g/m²	400 ~ 500	#320
+Bước 3	Cán lót màu UV MH 629 C
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 30~35 g/m²	600 ~ 800	#320
+Bước 4	Cán lót màu UV MH 629 C
+lần 2 2 trục (gạt dao)			Máy cán UV
+Định lượng: 30~35 g/m²	600 ~ 800	#320
+Bước 5	Cán Bóng màu UV MH 629 C 30%
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#400
+										
+Công thức	Lót màu UV MH 629 C				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2011 SEALER	150				
+2	BT UV 2222 WHITE SEALER	110				
+3	Vàng cam 2RA (1-10) 	0,2				
+4	Đỏ F3 RK (1-0.5) DM	0,3				
+5	Đen TC L3 (1-2) DM	0,5				
+6	Xanh lá GT	16				
+										
+Công thức	Bóng màu UV MH 629 C 30%				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 0510 TOPCOAT 15%	200				
+2	Lót màu UV MH 629 C	50				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán lót BT UV 2704 FILLER
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 30~35 g/m2	400 ~ 500	#320
+Bước 3	Cán Lót màu UV MH 7463C
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+Bước 4	Cán lót màu UV MH 7463C (Gray)
+lần 2 2 trục (gạt dao)			Máy cán UV
+Định lượng: 22~26 g/m2	600 ~ 800	#400
+Bước 5	Cán lót màu UV MH 7463C (Gray)
+lần 3 2 trục (gạt dao)			Máy cán UV
+Định lượng: 22~26 g/m2	600 ~ 800	#400
+Bước 6	Cán BT UV 2407 TOPCOAT 20%
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 12~18 g/m2	600 ~ 800	#400
+										
+Công thức	Lót màu UV MH 7463C				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2222 WHITE SEALER PHT	14,5				
+2	BT UV 2008 SEALER	200				
+3	Vàng cam 2RA	1,5				
+4	Đen TC L3 (1-2) DM	5,2				
+5	Xanh dương 4 GA	35				
+6	GIANT BLUE (1-2) DM	6,5				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Xử lý bề mặt gỗ					#320
+Bước 2	Cán lót BT UV 2704 FILLER
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 30~35 g/m2	400 ~ 500	#320
+Bước 3	Cán Lót màu UV MH 7605C
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 4	Cán lót màu UV MH 7605C
+lần 2 2 trục (gạt dao)			Máy cán UV
+Định lượng: 22~26 g/m2	600 ~ 800	#320
+Bước 5	Cán lót màu UV MH 7605C
+lần 3 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#320
+Bước 6	Cán Bóng màu UV MH 7605C 30%
+lần 1 2 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m2	600 ~ 800	#400
+										
+Công thức	Lót màu UV MH PINK 7605C				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV2008 SEALER	150				
+2	BT UV 2222 WHITE SEALER PHT	320				
+3	Vàng cam 2RA	8				
+4	Đỏ F3 RK (1-0.5) DM	7				
+5	Xanh dương 4 GA	0,7				
+										
+Công thức	Bóng màu UV MH PINK 7605C				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 0609 TOPCOAT 30% PHT	300				
+2	Lót màu UV MH 7605C	30				
+3	Vàng cam 2RA	0,1				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Chà nhám cạnh					#320/ #400
+Bước 2	Cán lót màu UV TD 162 (Cạnh)
+1 lần 2 trục (gạt dao)			Máy cán cạnh UV
+Định lượng: 30~35 g/m²	600 ~ 800	#320/ #400
+Bước 3	Cán lót BT UV 0609 TOPCOAT 10%
+1 lần 1 trục (gạt dao)			Máy cán cạnh UV
+Định lượng: 10~15 g/m²	600 ~ 800	#400/ #600
+										
+Công thức	Lót màu UV TD 162 (Cạnh)				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2211 SEALER	1100				
+2	BT UV 2212 SEALER	30				
+3	Vàng 412	45				
+4	Đỏ VM334	17				
+5	Đen TCL3 (1-2) DM	4				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Thời gian khô
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Chà nhám cạnh					#320/ #400
+Bước 2	Cán lót màu UV TD 162 (Mặt)
+1 lần 2 trục (gạt dao)			Máy cán cạnh UV
+Định lượng: 20~25 g/m²	600 ~ 800	#320/ #400
+Bước 3	Cán lót BT UV 0609 TOPCOAT 10%
+1 lần 1 trục (gạt dao)			Máy cán cạnh UV
+Định lượng: 10~15 g/m²	600 ~ 800	
+										
+Công thức	Lót màu UV TD 162 (Mặt)				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2011 SEALER	1300				
+2	BT UV 2222 SEALER	30				
+3	Vàng 412	45				
+4	Đỏ VM 334	17				
+5	Đen TC L3 (1-2) DM	4				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+QUY TRÌNH SƠN TRÊN CẠNH SẢN PHẨM
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán lót màu UV TD 165
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20 ~ 25 g/m²	400 ~ 500	#320
+Bước 3	Cán lót màu UV TD 165
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#320
+Bước 4	Cán BT UV 0609 TOPCOAT 10%
+lần 1 1 trục			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	#320
+QUY TRÌNH SƠN TRÊN MẶT SẢN PHẨM
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán lót màu UV TD 165
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20 ~ 25 g/m²	400 ~ 500	#320
+Bước 3	Cán BT UV 0609 TOPCOAT 10%
+lần 1 1 trục			Máy cán UV
+Định lượng: 10~15 g/m²	600 ~ 800	#400
+										
+Công thức	Lót màu UV TD 165 UV				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	400				
+2	BT UV 2222 WHITE SEALER PHT	13				
+3	Vàng cam 2RA	10				
+4	Đỏ F3 RK (1-0.5) DM	5				
+5	Đen TC L3 (1-2) DM	10				
+6	Xanh dương 4 GA	0,5				
+7	Đen MA 100 UV	30				
+6	Dung dịch UV 100	40				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+QUY TRÌNH SƠN TRÊN CẠNH SẢN PHẨM
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán lót màu UV TD 166
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20 ~ 25 g/m²	400 ~ 500	#320
+Bước 3	Cán lót màu UV TD 166
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#320
+Bước 4	Cán BT UV 0609 TOPCOAT 10%
+lần 1 1 trục			Máy cán UV
+Định lượng: 10~15 g/m²	600 ~ 800	#320
+QUY TRÌNH SƠN TRÊN MẶT SẢN PHẨM
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán lót màu UV TD 166
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20 ~ 25 g/m²	400 ~ 500	#320
+Bước 3	Cán BT UV 0609 TOPCOAT 10%
+lần 1 1 trục			Máy cán UV
+Định lượng: 10~15 g/m²	600 ~ 800	#400
+										
+Công thức	Lót màu UV TD 166 UV				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	200				
+2	Vàng cam 2RA	5				
+3	Đỏ F3 RK (1-0.5) DM	2,8				
+4	Đen TC L3 (1-2) DM	1,7				
+5	Xanh dương 4 GA	0,5				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+QUY TRÌNH SƠN TRÊN CẠNH SẢN PHẨM
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán lót màu UV TD 167
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20 ~ 25 g/m²	400 ~ 500	#320
+Bước 3	Cán lót màu UV TD 167
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#320
+Bước 4	Cán BT UV 0609 TOPCOAT 10%
+lần 1 1 trục			Máy cán UV
+Định lượng: 10~15 g/m2	600 ~ 800	#320
+QUY TRÌNH SƠN TRÊN MẶT SẢN PHẨM
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán lót màu UV TD 167
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20 ~ 25 g/m²	400 ~ 500	#320
+Bước 3	Cán BT UV 0609 TOPCOAT 10%
+lần 1 1 trục			Máy cán UV
+Định lượng: 10~15 g/m²	600 ~ 800	#400
+										
+Công thức	Lót màu UV TD 167 UV				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	400				
+2	BT UV 2222 WHITE SEALER PHT	12				
+3	Vàng cam 2RA	10				
+4	Đỏ F3 RK (1-0.5) DM	3				
+5	Đen TC L3 (1-2) DM	1				
+6	Xanh dương 4 GA	0,5				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Chà nhám mặt					#320
+Bước 2	Cán lót màu UV TD 173
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#320
+Bước 3	Cán lót màu UV TD 173
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#400
+										
+Công thức	Lót màu UV TD 173				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2222 WHITE SEALER PHT	300				
+2	BT UV 2008 SEALER	200				
+3	Vàng cam 2RA	2				
+4	Đỏ F3 RK (1-0.5) DM	2				
+4	Đen TCL3 (1-2) DM	5				
+4	Xanh lá GT	0,2				
+4	Dung dịch pha sơn UV 100	50				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Thời gian khô
+(mJ/cm²)	Giấy nhám sử dụng
+Bước 1	Chà nhám mặt					#320
+Bước 2	Cán lót màu UV TD 174
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#320
+Bước 3	Cán lót màu UV TD 174
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#400
+										
+Công thức	Lót màu UV TD 174				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2222 WHITE SEALER PHT	100				
+2	BT UV 0609 TOPCOAT 10%	50				
+3	Vàng cam 2RA (1-10) 	0,2				
+4	Dung dịch pha sơn UV 100	15				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+QUY TRÌNH SƠN TRÊN CẠNH SẢN PHẨM
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán lót màu UV TD 350
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20 ~ 25 g/m²	400 ~ 500	#320
+Bước 3	Cán lót màu UV TD 350
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#400
+Bước 4	Cán BT UV 0609 TOPCOAT 10%
+lần 1 1 trục			Máy cán UV
+Định lượng: 10~15 g/m²	600 ~ 800	
+QUY TRÌNH SƠN TRÊN MẶT SẢN PHẨM
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán lót màu UV TD 350
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20 ~ 25 g/m²	400 ~ 500	#320
+Bước 3	Cán lót màu UV TD 350
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20 ~ 25 g/m²	400 ~ 500	#400
+Bước 4	Cán BT UV 0609 TOPCOAT 10%
+lần 1 1 trục			Máy cán UV
+Định lượng: 10~15 g/m²	600 ~ 800	
+										
+Công thức	Lót màu UV TD 350 UV				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	500				
+2	BT UV 2222 WHITE SEALER PHT	300				
+3	Vàng cam 2RA	7,5				
+4	Đỏ F3 RK (1-0.5) DM	2				
+5	Đen TC L3 (1-2) DM	1,5				
+6	Xanh lá GT	0,4				
+
+Quy trình	Tên hóa chất sử dụng
+(ghi rõ tên màu, sơn lót, sơn bóng, chất cứng và dung môi sử dụng)	Tỷ lệ pha	Độ nhớt	Phương tiện sử dụng	Cường độ đèn UV
+(mJ/cm²)	Giấy nhám sử dụng
+QUY TRÌNH SƠN TRÊN CẠNH SẢN PHẨM
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán lót màu UV TD 352
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20 ~ 25 g/m²	400 ~ 500	#320
+Bước 3	Cán lót màu UV TD 352
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20~25 g/m²	600 ~ 800	#400
+Bước 4	Cán BT UV 0609 TOPCOAT 10%
+lần 1 1 trục			Máy cán UV
+Định lượng: 10~15 g/m²	600 ~ 800	
+QUY TRÌNH SƠN TRÊN MẶT SẢN PHẨM
+Bước 1	Xử lý bề mặt gỗ					#240
+Bước 2	Cán lót màu UV TD 352
+lần 1 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20 ~ 25 g/m²	400 ~ 500	#320
+Bước 3	Cán lót màu UV TD 352
+lần 2 1 trục (gạt dao)			Máy cán UV
+Định lượng: 20 ~ 25 g/m²	400 ~ 500	#400
+Bước 4	Cán BT UV 0609 TOPCOAT 10%
+lần 1 1 trục			Máy cán UV
+Định lượng: 10~15 g/m²	600 ~ 800	
+										
+Công thức	Lót màu UV TD 352 UV				
+STT	Tên hóa chất sử dụng	Số lượng (g)				
+1	BT UV 2008 SEALER	500				
+2	BT UV 2222 WHITE SEALER PHT	37				
+3	XANH DƯƠNG 4GA	2				
+4	GIANT BLUE (1-2) DM	6				
+5	Đen TC L3 (1-2) DM	10				
+6	VÀNG CAM 2RA	5				
+7	ĐỎ F3 RK (1-0.5) DM	6,2				
+
+
